@@ -1,0 +1,22 @@
+h2 {
+    font-weight: bolder !important;
+    font-size: 2rem !important;
+}
+
+.form-group.d-flex {
+    padding: 0 0 10px 0;
+    border-bottom: 1px solid grey;
+}
+
+input{
+    border: none !important;
+    outline: none !important;
+    background-color: #F8FAFC !important;
+}
+
+
+.form-control:focus {
+    box-shadow: none !important;
+    background-color: #F8FAFC !important;
+}
+
